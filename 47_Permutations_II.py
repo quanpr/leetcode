@@ -1,3 +1,5 @@
+# Given a collection of numbers that might contain duplicates, return all possible unique permutations.
+
 class Solution:
     def permuteUnique(self, nums):
         """
